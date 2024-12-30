@@ -186,7 +186,7 @@
 
     <!--ultrasound begin-->
     <path name="ultrasound-handset">
-        <ctl name="FSM_Ultrasound_Enable" value="1" />
+        <ctl name="FSM_Ultrasound_Enable" value="0" />
     </path>
 
     <path name="ultrasound-mic">
